@@ -3,7 +3,7 @@ Docker compose file for easy vanilla server deployment.
 # How to setup
 1. Install [Docker-compose](https://docs.docker.com/compose/install/), [Git](https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/)
 2. Clone this repository ``` git clone https://github.com/ustymenkopavlo/minecraft-dockercompose-vanila-server.git ```
-3. Enter ``` cd minecraft-dockercompose-vanila-server/ ``` then ``` docker-compose up -d ```
+3. Enter ``` cd minecraft-dockercompose-vanila-server/ && mkdir world``` then ``` docker-compose up -d ```
 
 # Modify 
 To use a different Minecraft version, pass the ``` VERSION ``` environment variable, which can have the value
