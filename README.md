@@ -1,4 +1,4 @@
-Docker compose file for easy vanilla server deployment.
+Docker compose file for easy vanilla(not only) server deployment.
 
 # How to setup
 1. Install [Docker-compose](https://docs.docker.com/compose/install/), [Git](https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/)
